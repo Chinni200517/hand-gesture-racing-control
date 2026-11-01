@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+env/
+Python-3.10/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+gesture_control.log
+performance.log
+
+# Temporary test files
+test_config.json
+test_*.json
+
+# OS files
+.DS_Store
+Thumbs.db
