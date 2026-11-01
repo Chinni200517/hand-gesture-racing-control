@@ -117,3 +117,21 @@ Developed & Maintained by **[Chinni Krishna B](https://github.com/Chinni200517)*
 ## 📄 License
 
 This project is licensed under the [MIT License](Real-Time-Hand-Gesture-Control-System-for-Racing-Games-main/LICENSE).
+
+
+
+Tech Stack Badges:
+Python 3.12, OpenCV 4.11, MediaPipe 0.10.21, Windows, MIT License.
+Key Highlights & Engineering Features:
+Touchless zero-hardware gaming, sub-25ms latency, thread-safe Windows architecture.
+Gesture Controls Reference Table:
+Clean breakdown of gestures (Fists, Height Differential Steering, Open Palms) with exact keys (W, A, S, D, Space).
+Quick Start Guide:
+Step-by-step instructions for installation and 1-click execution (run.bat).
+System Architecture Diagram:
+Visual Mermaid flowchart showing: Webcam Feed → MediaPipe Hands → Geometric Analysis → Input Controller → Game Window.
+Virtual Simulation Mode Documentation:
+Details how anyone can run and test the project even without a physical webcam.
+Author Attribution:
+Linked directly to your GitHub profile: @Chinni200517
+.
